@@ -13,11 +13,11 @@
     <div id="drag-container">
       <div id="spin-container">
         <img
-          src="https://toigingiuvedep.vn/wp-content/uploads/2022/01/anh-meo-cute.jpg"
+          src="./image/hinh-nen-dien-thoai.jpg"
           alt=""
         />
         <img
-          src="https://toigingiuvedep.vn/wp-content/uploads/2022/01/anh-meo-cute.jpg"
+          src="./image/hinh-nen-dien-thoai.jpg"
           alt=""
         />
         <img
