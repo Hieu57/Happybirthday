@@ -169,17 +169,17 @@ canvas {
   left: 50%;
   transform: translateX(-50%);
   font-size: 30px;
-  color: #fff;
+  color: #FF9696;
   text-align: center;
   font-family: tahoma;
 }
 .text-overlay b:first-child {
   opacity: 0;
-  animation: out 1s forwards infinite;
+  animation: in 2.5s 1s forwards infinite;
 }
 .text-overlay b:last-child {
   opacity: 0;
-  animation: in 2.5s 1s forwards infinite;
+  animation: in 2.5s 2s forwards infinite;
 }
 @keyframes in {
   0% {
