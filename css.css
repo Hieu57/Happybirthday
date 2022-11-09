@@ -179,7 +179,7 @@ canvas {
 }
 .text-overlay b:last-child {
   opacity: 0;
-  animation: in 2.5s 2s forwards infinite;
+  animation: in 2.5s 2.5s forwards infinite;
 }
 @keyframes in {
   0% {
